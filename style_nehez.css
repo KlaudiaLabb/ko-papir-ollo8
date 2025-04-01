@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(199, 172, 120, 0.855);
+    text-align: center;
+}
+
+#result{
+    color: rgb(104, 101, 8);
+}
+
+img{
+    height: 200px;
+}
+.nagy{
+    height: 230px;
+}
+
+button {
+    background: none;
+    border: none;
+}
+
+#link{
+    /*color: rgb(140, 136, 9);*/
+    text-align: left;
+}
+
+a:link {
+    color: rgb(140, 136, 9); 
+}
+
+a:hover {
+    color: orange;
+}
